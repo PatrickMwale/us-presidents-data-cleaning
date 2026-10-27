@@ -8,18 +8,19 @@ A messy dataset cleaned and standardized in Excel, ready for analysis.
 | ![Before](before.jpg) | ![After](after.jpg) |
 
 ## Problems found and fixed
-- Duplicate records removed
-- Inconsistent formats standardized (dates, names, etc.)
-- Deleted an unnecessary column (the “prior” column) to keep the table lean.
-- Standardized text case across names using PROPER CASE.
-- Fixed Formatting errors.
+- Removed duplicate records
+- Standardized inconsistent formats (like dates and names)
+- Deleted an unnecessary column ("prior") to keep the table lean
+- Standardized text case across names using PROPER
+- Fixed formatting errors (e.g. alignment, spacing and column widths)
 
 ## Tools used
 Microsoft Excel (Remove Duplicates, Text functions, Find & Replace, formulas)
 
 ## Data source
-The dataset was provided as part of the Alex the Analyst data analysis course. The data cleaning, pivot tables, charts, slicers, and dashboard in this project are my own work.
+The dataset comes from the [Alex the Analyst](PASTE-HIS-REPOSITORY-LINK-HERE) data analysis course. The data cleaning and standardization in this project are my own work.
 
-## Fil
-- `US_Presidents_Raw.xlsx`: original messy data
-- `US_Presidents_Cleaned.xlsx`: final cleaned version
+## Files
+- `Data Cleaning Excel Tutorial.xlsx`: the Excel workbook with the data and my cleaning work
+- `before.jpg` and `after.jpg`: screenshots of the data before and after cleaning
+- `before-after.png`: side-by-side comparison
