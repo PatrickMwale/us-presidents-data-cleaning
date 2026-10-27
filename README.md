@@ -18,9 +18,8 @@ A messy dataset cleaned and standardized in Excel, ready for analysis.
 Microsoft Excel (Remove Duplicates, Text functions, Find & Replace, formulas)
 
 ## Data source
-The dataset comes from the [Alex the Analyst](PASTE-HIS-REPOSITORY-LINK-HERE) data analysis course. The data cleaning and standardization in this project are my own work.
+The dataset comes from the [Alex the Analyst](https://github.com/AlexTheAnalyst/Excel-Tutorial) data analysis course. The data cleaning and standardization in this project are my own work.
 
 ## Files
 - `Data Cleaning Excel Tutorial.xlsx`: the Excel workbook with the data and my cleaning work
 - `before.jpg` and `after.jpg`: screenshots of the data before and after cleaning
-- `before-after.png`: side-by-side comparison
